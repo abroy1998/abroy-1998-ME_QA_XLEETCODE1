@@ -4,9 +4,9 @@ LeetCode is a leading online platform designed to empower individuals on their j
 It offers a comprehensive range of valuable resources and a diverse set of challenging problems that are specifically designed to enhance your coding abilities and prepare you exceptionally well for technical interviews. Whether you are an experienced developer looking to further enhance and refine your software engineering skills or a passionate coding enthusiast who is actively preparing for upcoming job interviews, LeetCode is the ideal platform that will provide you with the necessary tools and guidance to achieve remarkable success in your journey.
 
 ---
-- **TestCase01:** *Verify the Leetcode Homepage URL*
+**TestCase01:** *Verify the Leetcode Homepage URL*
 
-**Description:** Verify that the Leetcode homepage URL contains "leetcode"
+- **Description:** Verify that the Leetcode homepage URL contains "leetcode"
 
 **Test Steps:**
 
