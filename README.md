@@ -4,7 +4,7 @@ LeetCode is a leading online platform designed to empower individuals on their j
 It offers a comprehensive range of valuable resources and a diverse set of challenging problems that are specifically designed to enhance your coding abilities and prepare you exceptionally well for technical interviews. Whether you are an experienced developer looking to further enhance and refine your software engineering skills or a passionate coding enthusiast who is actively preparing for upcoming job interviews, LeetCode is the ideal platform that will provide you with the necessary tools and guidance to achieve remarkable success in your journey.
 
 ---
-**TestCase01:** *Verify the Leetcode Homepage URL*
+- **TestCase01:** *Verify the Leetcode Homepage URL*
 
 **Description:** Verify that the Leetcode homepage URL contains "leetcode"
 
@@ -20,7 +20,7 @@ It offers a comprehensive range of valuable resources and a diverse set of chall
 
 **TestCase02:** *Verify Problem Set URL and Display First 5 Questions*
 
-**Description:** Retrieve details of the first 5 questions on the problems page..
+- **Description:** Retrieve details of the first 5 questions on the problems page..
 
 **Test Steps:**
 
@@ -37,7 +37,7 @@ It offers a comprehensive range of valuable resources and a diverse set of chall
 ---
 **TestCase03:** *Verify the Two Sum problem*
 
-**Description:** Open the Two Sum problem and verify the URL.
+- **Description:** Open the Two Sum problem and verify the URL.
 
 **Test Steps:**
 
@@ -51,7 +51,7 @@ It offers a comprehensive range of valuable resources and a diverse set of chall
 
 **TestCase04:** *Ensure the submissions tab displays "Register or Sign In"*
 
-**Description:** Check the submissions tab and verify if it displays "Register or Sign In"
+- **Description:** Check the submissions tab and verify if it displays "Register or Sign In"
 
 **Test Steps:**
 
